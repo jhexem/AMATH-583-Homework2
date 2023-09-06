@@ -1,0 +1,12 @@
+1). The 6-bit representations of +inf and -inf are: 011100, 111100
+2). The vector 1-norm, 2-norm, and infinity-norm are all ways of measuring the length 
+of a vector. Let v = [x_1 x_2 ... x_n] be a vector. The 1-norm is calculated by 
+summing the absolute values of the entries of the vector: 
+   |v|_1 = |x_1| + |x_2| + ... + |x_n|.
+The 2-norm is calculated by taking the square root of the sum of the squares of the
+entries of the vectors:
+   |v|_2 = sqrt((x_1)^2 + (x_2)^2 + ... + (x_n)^2).
+The infinity-norm is calculated by taking the maximum absolute value of all the entries
+of the vector:
+   |v|_infinity = max{|x_1|, |x_2|, ... , |x_n|}.
+3). (see ExtraCreditProblem3.pdf).
